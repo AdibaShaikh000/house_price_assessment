@@ -5,7 +5,7 @@
 - Data Exploration and Preprocesing
 - Model Training
 - Model Evaluation
-- Model PredictionExplanation
+- Model Prediction Explanation
 - Future Improvements
 
 
